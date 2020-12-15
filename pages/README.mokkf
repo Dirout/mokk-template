@@ -1,7 +1,0 @@
----
-permalink: index.html
-collection: pages
----
-The [`MadeByEmil/mokk-template`](https://github.com/MadeByEmil/mokk-template) repository is a bare-bones template for publishing a Mokk to GitHub Pages.  
-
-This Mokk File is in a subfolder called `pages`.
